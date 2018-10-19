@@ -22,7 +22,7 @@ Se utilizaron las siguientes tecnologías:
 - Librería D3.js Versión 5 para la representación de los idioms e interacciones del proyecto.
 - GitHub para almacenar el código de la visualización y de los datos usados. 
 
-Cómo se ejecuta
+Cómo se ejecuta/
 El proyecto esta almacenado en el repositorio de GitHub: https://github.com/yagomezm/CadenaProductivaFlores y para acceder a ver la página principal del proyecto:  se habilitó el servicio de GitHub Pages a la cual se accede desde un navegador.
 
 Este trabajo se basa en el código de Knok16: https://github.com/knok16/d3-climate-change
