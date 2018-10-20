@@ -42,7 +42,8 @@ Se derivaron atributos como:
 - Promedio de toneladas exportadas por año
 - Total de toneladas exportadas por año y país.
 
-#Abstracción de Tareas (Why)
+# Abstracción de Tareas (Why)
+
 Tarea Principal
 
 Compare - Trends, de las exportaciones de los tres productos que hacen parte de la cadena productiva de flores. 
