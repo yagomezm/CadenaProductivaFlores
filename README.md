@@ -1,4 +1,4 @@
-# Exportación de algunos productos que hacen parte de la Cadena Productiva Flores - Período 2009 -2017
+# Exportación de productos que hacen parte de la Cadena Productiva Flores - Período 2009 -2017
 
 Este proyecto permite ver cómo ha sido el comportamiento en la exportación de  bulbos en estado vegetativo, musgos-líquenes y  plantas vivas en Colombia en el período 2009 a 2017, visualizando la cantidad de toneladas enviadas por año, mes y cuáles han sido los principales países destino.
 
