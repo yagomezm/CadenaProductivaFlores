@@ -78,12 +78,13 @@ Para el barchart donde se muestran los países los canales son:
 - Posición horizontal separate, order, para mostrar los países.
 - Longitud express, toneladas exportadas por año y producto.
 
-#Interacciones
+# Interacciones
 En el multi-line chart se observa la tendencia de exportaciones por producto y toneladas promedio en el período 2009 a 2017, al elegir un año, en el bar chart de la izquierda se podrá observar como fue la distribución de toneladas exportadas por mes y en el barchart de la parte inferior se observarán los países a donde se realizaron las mayores importaciones en el año filtrado distribuídas por producto. 
 
-#Insights
+# Insights
 
 - Observando las distribuciones de exportaciones a los países se observa que la mayoría de países que importan estos follajes son de América, siendo que las flores tienen gran acogida en los países Europeos y asiáticos.
 - En las distribuciones por países se puede ver como Curazao presentó un importante crecimiento en la importación de musgos y líquenes del año 2016 con 71.76 toneladas pasó a 2017 con 314.08 toneladas.
-- Observando la tendencia en el multi line chart por producto podemos ver cómo a partir de el año 2013 el producto de musgos y líquenes ha presentado mayor crecimiento que las plantas vivas y los bulbos en reposo vegetativo.
-- Los meses de enero, febrero.
+- Observando la tendencia en el multi line chart por producto podemos ver cómo a partir del año 2013 el producto de musgos y líquenes ha presentado mayor crecimiento que las plantas vivas y los bulbos en reposo vegetativo.
+- En el bar chart donde se muestra la información por meses se observa que de la serie de años 2009-2017 el mes de marzo del año 2009 fue el mes donde mayores exportaciones de musgo y líquenes se hicieron (820.94) de las cuales fue Curazao el país destino con mayores importaciones 747.17 toneladas.
+
