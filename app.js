@@ -238,7 +238,7 @@
                 .ease(d3.easeElastic);
 
             yearLabelMon.transition()
-                .text(year)
+                .text('Ton x Mes ' + year)
                 .attr('x', chart1Width/2)
                 .attr('y', margin.top)
                 .attr('text-anchor', 'middle')
@@ -315,7 +315,7 @@
                 .ease(d3.easeElastic);
 
             yearLabelCon.transition()
-                .text(year)
+                .text('Total Ton x País ' + year)
                 .attr('x', chart1Width)
                 .attr('y', chartHeight/2)
                 .attr('text-anchor', 'middle')
