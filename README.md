@@ -24,7 +24,7 @@ Se utilizaron las siguientes tecnologías:
 
 Cómo se ejecuta
 
-El proyecto esta almacenado en el repositorio de GitHub: https://github.com/yagomezm/CadenaProductivaFlores y para acceder a ver la página principal del proyecto:  se habilitó el servicio de GitHub Pages a la cual se accede desde un navegador.
+El proyecto esta almacenado en el repositorio de GitHub: https://github.com/yagomezm/CadenaProductivaFlores y para acceder a ver la página principal del proyecto se habilitó el servicio de GitHub Pages a la cual se accede desde un navegador https://bit.ly/2Cv4GJh.
 
 Este trabajo se basa en el código de Knok16: https://github.com/knok16/d3-climate-change
 
@@ -80,6 +80,7 @@ Para el barchart donde se muestran los países los canales son:
 
 # Interacciones
 En el multi-line chart se observa la tendencia de exportaciones por producto y toneladas promedio en el período 2009 a 2017, al elegir un año, en el bar chart de la izquierda se podrá observar como fue la distribución de toneladas exportadas por mes y en el barchart de la parte inferior se observarán los países a donde se realizaron las mayores importaciones en el año filtrado distribuídas por producto. 
+
 
 # Insights
 
